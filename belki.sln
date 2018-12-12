@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "belki", "belki.csproj", "{D42B7B66-B800-46BF-7129-5185906A922C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "belki.Editor", "belki.Editor.csproj", "{0DF969E2-C651-05E7-EE80-DACC4F362EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D42B7B66-B800-46BF-7129-5185906A922C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42B7B66-B800-46BF-7129-5185906A922C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42B7B66-B800-46BF-7129-5185906A922C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42B7B66-B800-46BF-7129-5185906A922C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DF969E2-C651-05E7-EE80-DACC4F362EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF969E2-C651-05E7-EE80-DACC4F362EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF969E2-C651-05E7-EE80-DACC4F362EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF969E2-C651-05E7-EE80-DACC4F362EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
